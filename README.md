@@ -7,7 +7,7 @@ The goal of this task is to clean and preprocess raw data to make it suitable fo
 - Source: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - File used: `titanic.csv`
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
